@@ -89,7 +89,6 @@ TerrainGenerator/
 │   ├── Core algorithms and code_Part 1.md
 │   └── Core algorithms and code_Part 2.md
 ├── CMakeLists.txt            # CMake 构建脚本
-├── .gitignore
 └── README.md
 ```
 
@@ -106,14 +105,8 @@ TerrainGenerator/
 
 ---
 
-## 开源协议
-
-本项目采用 **MIT License** 开源，详见 [LICENSE](LICENSE) 文件。
-
----
-
 ## 致谢
 
-- **Ken Perlin** — 柏林噪声发明者（1997 年奥斯卡技术成就奖）
+- **Ken Perlin** — 柏林噪声发明者
 - **Omar Cornut** — Dear ImGui 创建者
 - GLFW 与 GLEW 开源社区
